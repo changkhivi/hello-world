@@ -1,2 +1,3 @@
 # hello-world
-my first github project
+
+study the branch commit
